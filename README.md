@@ -9,3 +9,8 @@
 Sentiment analysis is used to find out what peoples thinks about product and to find out their emotions toward that product. 
 
 It also helps to find out what kind of problems people are facing with product, because the negative review is almost full with those things and this also make useful for that company to make or consider those factors in their new products.
+
+#### Reviews Extraction:
+
+**BeautifulSoup** 🥣 is used for extraction of reviews from amazon websites alone with **urllib and request** library.
+The reviews are extracted and saved in text file at interval of 50 review, so that even if the program get crashed or something happened, the extraction will begin from the point where it is stopped. so it will save time. the extraction program is saved in 
