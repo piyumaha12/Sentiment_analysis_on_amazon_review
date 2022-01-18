@@ -35,7 +35,7 @@ After all cleaning and The Lemmatization is applied
 
 So we have unlabeled data i used sentiment lexicons, that assign the numerical values based on presence of positive and negative words in the review and the i encode those numerical values as **Positive, Neutral and Negative** 
 
-After all these processes the dataset looks like: 
+After all these processes the dataset looks like ([oneplus_labeled_data_oversampled.csv](https://github.com/piyumaha12/Sentiment_analysis_on_amazon_review/blob/8a0b3ede3f1a025e1d527e67af383c3bd82310d2/oneplus_labeled_data_oversampled.csv)): 
 > <img width = "480px" height = "400px" src = "https://user-images.githubusercontent.com/71897685/149990796-7ba11cbc-4528-4cd5-8962-996aef8be4c9.png"/>
 
 ### Exploratory Data analysis:
