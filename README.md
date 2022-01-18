@@ -13,4 +13,4 @@ It also helps to find out what kind of problems people are facing with product, 
 #### Reviews Extraction:
 
 **BeautifulSoup** 🥣 is used for extraction of reviews from amazon websites alone with **urllib and request** library.
-The reviews are extracted and saved in text file at interval of 50 review, so that even if the program get crashed or something happened, the extraction will begin from the point where it is stopped. so it will save time. the extraction program is saved in 
+The reviews are extracted and saved in text file at interval of 50 review, so that even if the program get crashed or something happened, The extraction will begin from the point where it is stopped. so it will save time. The extraction program is saved in [web_scrapping_text_file_writing.py](https://github.com/piyumaha12/Sentiment_analysis_on_amazon_review/blob/c2d0106704487353044ff85627e1fb9f774a2032/web_scrapping_text_file_writing.py) and The extracted text file is [reviews_cleaned.txt](https://github.com/piyumaha12/Sentiment_analysis_on_amazon_review/blob/c2d0106704487353044ff85627e1fb9f774a2032/reviews_cleaned.txt)
