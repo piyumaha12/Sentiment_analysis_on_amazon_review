@@ -1,4 +1,4 @@
-# Sentiment analysis on OnePlus Nord 2 reviews extracted from amazon
+# Sentiment analysis on OnePlus Nord 2 reviews extracted from amazon 
 
 
 ### **Sentiment analysis:**
@@ -82,3 +82,4 @@ For More info please refer to:
 
 > [Sentiment_analysis_neural_models.ipynb](https://github.com/piyumaha12/Sentiment_analysis_on_amazon_review/blob/b18a61575c0c44978cf8e6023ba1d1cd06afbe50/Sentiment_analysis_neural_models.ipynb)
 
+> [Link of webapp](https://share.streamlit.io/geetanjali-vijaykumar/product-review-analysis/main/projamazon.py)
